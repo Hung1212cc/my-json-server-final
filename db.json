@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Xe đạp GIANT Talon 3",
+      "price": "11.400.000 VNĐ",
+      "image": "img/xe đạp.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Xe đạp MTB Room 2",
+      "price": "18.900.000 VNĐ",
+      "image": "img/xe đạp.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Xe đạp MTB Room 3",
+      "price": "11.900.000 VNĐ",
+      "image": "img/xe đạp.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Xe đạp GIANT ATX 2024",
+      "price": "12.900.000 VNĐ",
+      "image": "img/xe đạp.jpg"
+    }
+  ]
+}
